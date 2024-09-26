@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\pages\\additioncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:pages\\additioncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|c:\\users\\wcch4679\\desktop\\training apps\\additionapp\\additionapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB1D0C-8652-4B87-925B-0357348244F6}|AdditionApp.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T07:11:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdditionComponent.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\AdditionComponent.razor",
+              "RelativeDocumentMoniker": "Pages\\AdditionComponent.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\AdditionComponent.razor",
+              "RelativeToolTip": "Pages\\AdditionComponent.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:59:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:46:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:49:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T06:46:43.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:45:42.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Shared\\MainLayout.razor.css",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T07:11:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Shared\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T07:12:00.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T07:12:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Shared\\SurveyPrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T07:12:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:52:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:52:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:50:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\wcch4679\\Desktop\\Training Apps\\AdditionApp\\AdditionApp\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T06:49:46.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

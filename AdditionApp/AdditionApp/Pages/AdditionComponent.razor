@@ -1,0 +1,62 @@
+﻿@page "/addition"
+@inject ILogger<AdditionComponent> Logger
+
+<h2>Addition of Two Numbers</h2>
+
+<div>
+    <div class="form-group">
+        <label for="firstNumber">First Number:</label>
+        <input @bind="FirstNumber" type="number" class="form-control" id="firstNumber" />
+    </div>
+    <div class="form-group">
+        <label for="secondNumber">Second Number:</label>
+        <input @bind="SecondNumber" type="number" class="form-control" id="secondNumber" />
+    </div>
+    <button class="btn btn-primary" @onclick="AddNumbers">Add</button>
+</div>
+
+@if (Result.HasValue)
+{
+    <h3>Result: @Result</h3>
+}
+
+@if (!string.IsNullOrEmpty(ErrorMessage))
+{
+    <div class="alert alert-danger">
+        <strong>Error:</strong> @ErrorMessage
+    </div>
+}
+
+@code {
+    private int? FirstNumber { get; set; }
+    private int? SecondNumber { get; set; }
+    private int? Result { get; set; }
+    private string ErrorMessage { get; set; } = string.Empty;
+
+    private void AddNumbers()
+    {
+        try
+        {
+            if (FirstNumber.HasValue && SecondNumber.HasValue)
+            {
+                Result = FirstNumber.Value + SecondNumber.Value;
+                Logger.LogInformation($"Addition of {FirstNumber} and {SecondNumber} resulted in {Result}.");
+            }
+            else
+            {
+                ErrorMessage = "Error!Both numbers must be provided.";
+                Logger.LogWarning("One or both numbers were not provided.");
+            }
+        }
+        catch (Exception ex)
+        {
+            ErrorMessage = "An error occurred during the addition.";
+            Logger.LogError(ex, "Error occurred while adding numbers.");
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        Logger.LogInformation("Successfully Added!");
+    }
+}
